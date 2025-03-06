@@ -1,0 +1,103 @@
+{
+    "nome": "vingadores",
+    "membros": [
+        {
+            "id": 1,
+            "nome": "Homem de Ferro",
+            "poder": ["Armadura", "Inteligência"],
+            "idade": 45,
+            "identidadeSecreta": "Tony Stark"
+        },
+        {   
+            "id": 2,
+            "nome": "Capitão América",
+            "poder": ["Super-humano", "Escudo"],
+            "idade": 100,
+            "identidadeSecreta": "Steve Rogers"
+        },
+        {
+            "id": 3,
+            "nome": "Thor",
+            "poder": "Deus do trovão",
+            "idade": 1500,
+            "identidadeSecreta": "Thor"
+        },
+        {
+            "id": 4,
+            "nome": "Hulk",
+            "poder": ["Super Força", "Super-resistência"],
+            "idade": 40,
+            "identidadeSecreta": "Bruce Banner"
+        },
+        {
+            "id": 5,
+            "nome": "Viúva Negra",
+            "poder": "Agilidade",
+            "idade": 35,
+            "identidadeSecreta": "Natasha Romanoff"
+        },
+        {
+            "id": 6,
+            "nome": "Gavião Arqueiro",
+            "poder": "Habilidades com Arco e Flecha",
+            "idade": 40,
+            "identidadeSecreta": "Clint Barton"
+        },
+        {
+            "id": 8,
+            "nome": "Capitã Marvel",
+            "poder": "Super-Humana",
+            "idade": 30,
+            "identidadeSecreta": "Carol Danvers"
+        },
+        {
+            "id": 9,
+            "nome": "Homem-Formiga",
+            "poder": "Reduzir o tamanho e aumentar a força",
+            "idade": 40,
+            "identidadeSecreta": "Scott Lang"
+        },
+        {
+            "id": 10,
+            "nome": "Homem-Aranha",
+            "poder": "Força e Poderes de Aranha",
+            "idade": 18,
+            "identidadeSecreta": "Peter Parker"
+        },
+        {
+            "id": 11,
+            "nome": "Doutor Estranho",
+            "poder": "Magia",
+            "idade": 40,
+            "identidadeSecreta": "Stephen Strange"
+        },
+        {
+            "id": 12,
+            "nome": "Mercúrio",	
+            "poder": "Velocidade e Agilidade",
+            "idade": 30,
+            "identidadeSecreta": "Peter Quill"
+        },
+        {
+            "id": 13,
+            "nome": "Pantera Negra",
+            "poder": "Super-Humano",
+            "idade": 35,
+            "identidadeSecreta": "T'Challa"
+        },
+        {
+            "id": 14,
+            "nome": "Visão",
+            "poder": "Telecinese",
+            "idade": 30,
+            "identidadeSecreta": "Visão"
+        },
+        {
+            "id": 15,
+            "nome": "Feiticeira Escarlate",
+            "poder": ["Magia", "Telecinese", "Telepatia", "Teletransporte", "Manipulação da Realidade"],
+            "idade": 35,
+            "identidadeSecreta": "Wanda Maximoff"
+        }      
+    ]
+}
